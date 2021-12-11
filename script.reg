@@ -1,0 +1,3 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\.mw\shell\Open with List\command]
+@="\"C:\\Users\\maksk\\Desktop\\GIT\\doubly-linked-list-master\\List\\bin\\Release\\net5.0\\List.exe\" \"%1\""
